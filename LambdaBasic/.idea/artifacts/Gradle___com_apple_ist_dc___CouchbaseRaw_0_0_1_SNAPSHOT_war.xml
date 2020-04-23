@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : com.apple.ist.dc : CouchbaseRaw-0.0.1-SNAPSHOT.war">
+    <output-path>$USER_HOME$/Downloads/CouchbaseRaw/.out/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$USER_HOME$/Downloads/CouchbaseRaw" />
+    </properties>
+    <root id="archive" name="CouchbaseRaw-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gradle : com.apple.ist.dc : CouchbaseRaw-0.0.1-SNAPSHOT.war (exploded)" />
+    </root>
+  </artifact>
+</component>

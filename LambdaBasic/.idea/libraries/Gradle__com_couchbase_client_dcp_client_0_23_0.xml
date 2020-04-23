@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.couchbase.client:dcp-client:0.23.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.couchbase.client/dcp-client/0.23.0/6c421f48cce6486e981d931d8e031b5578569bac/dcp-client-0.23.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.couchbase.client/dcp-client/0.23.0/fce931ce983b10245878b08cba714297748f5de8/dcp-client-0.23.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

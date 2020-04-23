@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.couchbase.client:spark-connector_2.11:2.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.couchbase.client/spark-connector_2.11/2.3.0/248e58d8673db227df08ccb348f617df1157034e/spark-connector_2.11-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.couchbase.client/spark-connector_2.11/2.3.0/dda489521b7c8024e5200530680ecd0173467e3d/spark-connector_2.11-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

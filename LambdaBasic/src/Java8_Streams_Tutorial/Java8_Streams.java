@@ -45,6 +45,8 @@ public class Java8_Streams {
 
     public static void main(String[] args) throws IOException {
 
+        ArrayList<String> al = (ArrayList<String>)List.of("10");
+
         //1. Integer stream
         IntStream
                 .range(1,10)

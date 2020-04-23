@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.couchbase.client:java-client:2.7.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.couchbase.client/java-client/2.7.6/24446c8a92e11600cf0ff310c26af0d9eb5d12b4/java-client-2.7.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.couchbase.client/java-client/2.7.6/bb8a87c66d00dae48d886c45944967565041ac5f/java-client-2.7.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="CouchbaseRaw" external.linked.project.path="$USER_HOME$/Downloads/CouchbaseRaw" external.root.project.path="$USER_HOME$/Downloads/CouchbaseRaw" external.system.id="GRADLE" external.system.module.group="com.apple.ist.dc" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/Downloads/CouchbaseRaw">
+      <excludeFolder url="file://$USER_HOME$/Downloads/CouchbaseRaw/.gradle" />
+      <excludeFolder url="file://$USER_HOME$/Downloads/CouchbaseRaw/.out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="sonarModuleSettings">
+    <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
+    <option name="serverName" value="&lt;PROJECT&gt;" />
+  </component>
+</module>
